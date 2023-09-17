@@ -8,6 +8,6 @@
     <img src="images/edx.png" alt="Edx Logo" width="145"/>
   </a>
 </div>
-
+<p> 
 
 
