@@ -5,7 +5,7 @@
     <img src="images/harvard.png" alt="Harvard University Logo" width="200"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="images/edx.png" alt="Edx Logo" width="120"/>
+    <img src="images/edx.png" alt="Edx Logo" width="145"/>
   </a>
 </div>
 
