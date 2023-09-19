@@ -9,7 +9,9 @@
 
 <h1 ">Harvard University: CS50</h1>
 <p>
-<p ><em>Instructors :</em> <a href="https://www.edx.org/bio/david-j-malan"> David J. Malan  </a> , <a href="https://www.edx.org/bio/doug-lloyd"> Doug Lloyd  </a> ,<a href="https://www.edx.org/bio/brian-yu"> Brian Yu  </a><p>
+<p ><em>Instructors :</em> <a href="https://www.edx.org/bio/david-j-malan"> David J. Malan  </a> , <a href="https://www.edx.org/bio/doug-lloyd"> Doug Lloyd  </a> ,<a href="https://www.edx.org/bio/brian-yu"> Brian Yu </a><p>
+<h2>🧾 About </h2>
+<p> 
 
 
 
