@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="images/harvard.png" alt="Harvard University Logo" width="100"/>
+    <img src="images/harvard.png" alt="Harvard University Logo" width="120"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="images/edx.png" alt="Edx Logo" width="80"/>
