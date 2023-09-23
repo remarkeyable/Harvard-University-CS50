@@ -10,5 +10,6 @@
 
 <h2>Inside Scratch</h2>
 <img src="img/a.png">
+<img src="img/b.png">
 
 
