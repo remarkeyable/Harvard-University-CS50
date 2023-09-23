@@ -9,5 +9,6 @@
  <li>Project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than<a href="https://scratch.mit.edu/projects/277537196"> Oscartime</a> and <a href="https://scratch.mit.edu/projects/326129433">Ivy’s Hardest Game</a>.</li></ul>
 
 <h2>Inside Scratch</h2>
+<img src="img/1.png">
 
 
