@@ -13,7 +13,7 @@
 <h2>🧾 About </h2>
 <p> A compilation of my solutions on Problem Sets, Labs & Final Project from CS50x 2023. This is for documentation purposes only, please read <a href="https://cs50.harvard.edu/x/2023/honesty/#policy">Academic Honesty</a> if you're also taking this course.  </p>
 
-<h2>🦾 Tools & technologies </h2>
+<h2>🦾 Tech Stacks </h2>
 
 
 
