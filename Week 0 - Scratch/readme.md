@@ -11,7 +11,8 @@
 <h2>Inside Scratch</h2>
 <img src="assets/1.png">
 <img src="assets/2.png">
-
+<h2> Check50 Result </h2>
+<img src="assets/results.png">
 <h2>Video Demo</h2>
 
 
