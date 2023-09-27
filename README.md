@@ -22,8 +22,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="25">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="25">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="25">
-  
 </p>
+
+---
+
+| Week | Title     | Output   |
+| ---- | ---------- | ------- |
+| [0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)    |Scratch |[Problem Set 0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)     |
+| [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Lab 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
+| [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Practice Problems 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
+| [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Problem Set 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
+
 
 
 
