@@ -6,5 +6,5 @@
   <li>Get practice debugging</li>
 </ul>  
 <h3>Output</h3>
-<img src="assets/debug_output.jpeg">
+<img src="assets/1.png">
 
