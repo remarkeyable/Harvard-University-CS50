@@ -30,7 +30,7 @@
 | ---- | ---------- | ------- |
 | [0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)    |Scratch |[Problem Set 0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)     |
 | [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Lab 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
-| [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Practice Problems 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
+| [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Practice Problems 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Practice%20Problems)  |
 | [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Problem Set 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Lab%201)  |
 
 
