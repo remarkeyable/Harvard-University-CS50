@@ -20,3 +20,14 @@
 <h3>Output</h3>
 <img src="assets/2.png">
 
+
+<h1>Prime</h1>
+<h3>Learning Goals</h3>
+<ul>
+  <li>Practice using for loops</li>
+  <li>Using modulo</li>
+  <li>Creating a Boolean function</li>
+</ul>  
+<h3>Output</h3>
+<img src="assets/3.png">
+
