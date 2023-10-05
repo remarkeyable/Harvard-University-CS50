@@ -35,6 +35,14 @@ Modify this program in such a way that it first prompts the user for their name 
 
 
 <h3>Mario More</h3>
+<h4>World 1-1</h4>
+<p>Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, per the below.</p>
+<p>Let’s recreate those pyramids in C, albeit in text, using hashes (#) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramids themselves will also be taller than they are wide.</p>
 <img src="assets/mario.png">
+
+
+
+
+
 <h3>Credit</h3>
 <img src="assets/credit.png">
