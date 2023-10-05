@@ -33,3 +33,24 @@ Write a program entirely from scratch
 </ul>
 <h2>Output</h2>
 <img src="assets/novowels.png">
+
+---
+
+
+<h2>Learning Goals</h2>
+<ul>
+<li>
+Practice iterating through a string
+</li>
+  <li>
+Practice using the ctype library
+    </li>
+    <li>
+Practice using Boolean variables
+      </li>
+</ul>
+<h2>Output</h2>
+<img src="assets/password.png">
+
+
+
