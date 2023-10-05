@@ -18,7 +18,7 @@ Integer division and type casting
 <img src="assets/hours.png">
 
 ---
-
+<h1>No Vowels</h1>
 <h2>Learning Goals</h2>
 <ul>
 <li>
@@ -36,7 +36,7 @@ Write a program entirely from scratch
 
 ---
 
-
+<h1>Password</h1>
 <h2>Learning Goals</h2>
 <ul>
 <li>
