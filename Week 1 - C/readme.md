@@ -22,17 +22,16 @@
 <h3>Check50 Result </h3>
 <img src="assets/1.png">
 <img src="assets/2.png">
+
+---
 <h1>Problem Set</h1>
-
-
-
 <h3>Hello</h3>
 <h4>Getting User Input</h4>
 <p>suffice it to say, no matter how you compile or execute this program, it only ever prints hello, world. Let’s personalize it a bit, just as we did in class.
 Modify this program in such a way that it first prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.</p>
 <img src="assets/hello.png">
 
-
+---
 
 <h3>Mario More</h3>
 <h4>World 1-1</h4>
@@ -42,7 +41,7 @@ Modify this program in such a way that it first prompts the user for their name 
 
 
 
-
+---
 
 <h3>Credit</h3>
 <h4>Implementation Details</h4>
