@@ -1,4 +1,4 @@
-<h1>Lab 1</h1>
+<h1>Lab 1 (Population)</h1>
 
 <h3> Implementation Details </h3>
 <p>Complete the implementation of population.c, such that it calculates the number of years required for the population to grow from the start size to the end size.</p>
