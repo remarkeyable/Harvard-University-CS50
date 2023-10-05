@@ -13,6 +13,6 @@ Adding values in a loop
       <li>
 Integer division and type casting
     </li>
-
-  
 </ul>
+<h2>Output</h2>
+<img src="assets/hours.png">
