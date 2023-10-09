@@ -20,7 +20,7 @@
 </ul>
 
 <li>In main(), your program should print, depending on the players’ scores, Player 1 wins!, Player 2 wins!, or Tie!.</li>
-
-  
 </ul>
+<br>
+<img src="assets/scrabble.png">
 
