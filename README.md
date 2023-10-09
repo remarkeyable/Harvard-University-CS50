@@ -33,8 +33,8 @@
 | [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Practice Problems 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Practice%20Problems)  |
 | [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Problem Set 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)  |
 | [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Practice Problems 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array/Practice%20Problems)  |
-| [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Lab 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C/Practice%20Problems)  |
-| [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Problem Set 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)  |
+| [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Lab 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
+| [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Problem Set 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
 
 
 
