@@ -8,8 +8,10 @@
   Practice creating recursive functions
 </li>
 </ul>
+<h3> Output </h3>
+<img src="assets/1.png">
 
-
+---
 <h1>Average High Temperatures</h1>
 <h2>Learning Goals</h2>
 <ul>
@@ -20,8 +22,11 @@
  Practice applying sorting algorithms
 </li>
 </ul>
+<h3> Output </h3>
+<img src="assets/2.png">
 
 
+---
 
 <h1>Max</h1>
 <h2>Learning Goals</h2>
@@ -33,8 +38,11 @@ Pass an array into a function
 Create a helper function that finds a maximum value
 </li>
 </ul>
+<h3> Output </h3>
+<img src="assets/3.png">
 
 
+---
 
 <h1>Snackbar</h1>
 <h2>Learning Goals</h2>
@@ -46,4 +54,6 @@ Practice using structs
 Write a linear search algorithm
 </li>
 </ul>
+<h3> Output </h3>
+<img src="assets/4.png">
 
