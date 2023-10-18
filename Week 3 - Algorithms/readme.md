@@ -17,3 +17,15 @@
 </ul>  
 </ul>
 <p><em>You should not modify anything else in plurality.c other than the implementations of the vote and print_winner functions (and the inclusion of additional header files, if you’d like).</em></p>
+<img src="assets/1.png">
+
+---
+
+<h2>Runoff</h2>
+<h2>Specification</h2>
+
+<p>Complete the implementation of runoff.c in such a way that it simulates a runoff election. You should complete the implementations of the vote, tabulate, print_winner, find_min, is_tie, and eliminate functions, and you should not modify anything else in runoff.c (and the inclusion of additional header files, if you’d like).</p>
+
+<h3>Vote</h3>
+
+
