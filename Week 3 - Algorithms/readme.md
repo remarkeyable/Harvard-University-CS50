@@ -27,5 +27,41 @@
 <p>Complete the implementation of runoff.c in such a way that it simulates a runoff election. You should complete the implementations of the vote, tabulate, print_winner, find_min, is_tie, and eliminate functions, and you should not modify anything else in runoff.c (and the inclusion of additional header files, if you’d like).</p>
 
 <h3>Vote</h3>
+<ul>
+<li>The function takes arguments voter, rank, and name. If name is a match for the name of a valid candidate, then you should update the global preferences array to indicate that the voter voter has that candidate as their rank preference (where 0 is the first preference, 1 is the second preference, etc.).</li>
+<li>If the preference is successfully recorded, the function should return true; the function should return false otherwise (if, for instance, name is not the name of one of the candidates).</li>  
+<li>You may assume that no two candidates will have the same name.</li>  
+
+</ul>
+<h3>Tabulate</h3>
+
+<ul>
+<li>The function should update the number of votes each candidate has at this stage in the runoff.</li>
+<li>Recall that at each stage in the runoff, every voter effectively votes for their top-preferred candidate who has not already been eliminated.</li>  
+</ul>
+
+
+
+</ul>
+<h3>Print Winner</h3>
+
+<ul>
+<li>If any candidate has more than half of the vote, their name should be printed and the function should return true.</li>
+<li>If nobody has won the election yet, the function should return false.</li>  
+</ul>
+
+
+
+
+</ul>
+<h3>Find Min</h3>
+
+<ul>
+<li>The function should return the minimum vote total for any candidate who is still in the election.</li>
+</ul>
+
+
+  
+
 
 
