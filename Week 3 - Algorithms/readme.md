@@ -77,6 +77,9 @@
 <li>The function takes an argument min, which will be the minimum number of votes that anyone in the election currently has.</li>
 <li>The function should eliminate the candidate (or candidates) who have min number of votes.</li>
 </ul>
+
+
+<img src="assets/2.png">
   
 
 
