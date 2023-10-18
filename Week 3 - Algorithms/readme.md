@@ -1,4 +1,5 @@
-<h1>Plurality</h1>
+<h1>Problem Set 3</h1>
+<h2>Plurality</h2>
 <h2>Specification</h2>
 
 <ul>
