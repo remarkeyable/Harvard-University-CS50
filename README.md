@@ -36,7 +36,7 @@
 | [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Lab 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
 | [2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)    | C | [Problem Set 2](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
 | [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Practice Problems 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Practice%20problems)  |
-| [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Lab 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
+| [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Lab 3](https://github.com/remarkeyable/Harvard-University-CS50/blob/main/Week%203%20-%20Algorithms/Lab%203/Readme.md)  |
 | [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Problem Set 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%202%20-%20Array)  |
 
 
