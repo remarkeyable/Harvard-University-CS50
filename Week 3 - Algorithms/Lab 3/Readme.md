@@ -15,6 +15,7 @@
 
 
 <li>Record your answers in answers.txt, along with an explanation for each program, by filling in the blanks marked TODO.</li>
-
-  
 </ul>
+
+
+<img src="1.png">
