@@ -38,9 +38,9 @@
 | [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Practice Problems 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Practice%20problems)  |
 | [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Lab 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Lab%203)  |
 | [3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Problem Set 3](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)  |
-| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Practice Problems 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Practice%20problems)  |
-| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Lab 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Lab%203)  |
-| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)    | C | [Problem Set 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms)  |
+| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Practice Problems 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory/Practice%20Problems%204)  |
+| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Lab 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%203%20-%20Algorithms/Lab%203)  |
+| [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Problem Set 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)  |
 
 
 
