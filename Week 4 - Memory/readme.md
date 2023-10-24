@@ -7,6 +7,7 @@
 
 ---
 <h1>Problem Set 4</h1>
+<h1>Filter</h1>
 <h2>Specification</h2>
 <p>Implement the functions in helpers.c such that a user can apply grayscale, reflection, blur, or edge detection filters to their images.</p>
 
