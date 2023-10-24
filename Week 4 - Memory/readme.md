@@ -3,6 +3,6 @@
 <ul>
 <li>Learn how to work with images</li>
 <li>Practice manipulating pixels</li>
-
-  
 </ul>
+
+<img src="assets/bottom_up.png">
