@@ -4,7 +4,7 @@
 <li>Learn how to work with images</li>
 <li>Practice manipulating pixels</li>
 </ul>
-
+<img src="assets/smiley.png">
 ---
 <h1>Problem Set 4</h1>
 <h1>Filter</h1>
@@ -16,6 +16,7 @@
 <li>The blur function should take an image and turn it into a box-blurred version of the same image.</li>
 <li>The edges function should take an image and highlight the edges between objects, according to the Sobel operator.</li>
 </ul>
-
+<img src="assets/filter.png">
 <h1>Reverse</h1>
 <p>Implement a program that reverses a WAV file.</p>
+<img src="assets/reverse.png">
