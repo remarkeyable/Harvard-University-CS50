@@ -5,5 +5,7 @@
 <li>Practice working with images</li>
 <li>Learn about metadata</li>
 <li>Learn more about how structs can be useful</li>
-  
 </ul>
+
+
+<img src="assets/bottom_up.png">
