@@ -18,4 +18,4 @@
 </ul>
 
 <h1>Reverse</h1>
-<p>Implement a program that reverses a WAV file</p>
+<p>Implement a program that reverses a WAV file.</p>
