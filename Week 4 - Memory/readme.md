@@ -5,4 +5,4 @@
 <li>Practice manipulating pixels</li>
 </ul>
 
-<img src="assets/bottom_up.png">
+
