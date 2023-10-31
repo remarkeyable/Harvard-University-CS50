@@ -25,4 +25,4 @@
   <li>Since this is a recursive function, you should first handle the base case. If the input to the function is NULL, then there’s nothing to free, so your function can return immediately.</li>
   <li>Otherwise, you should recursively free both of the person’s parents before freeing the child.</li>
 </ul>
-<img src="assets/inheritance.png">
+<img src="assets/inhertitance.png">
