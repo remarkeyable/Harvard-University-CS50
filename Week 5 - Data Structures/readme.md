@@ -46,6 +46,6 @@
 <li>Your spell checker may only take text and, optionally, dictionary as input. Although you might be inclined (particularly if among those more comfortable) to “pre-process” our default dictionary in order to derive an “ideal hash function” for it, you may not save the output of any such pre-processing to disk in order to load it back into memory on subsequent runs of your spell checker in order to gain an advantage..</li>
 <li>Your spell checker must not leak any memory. Be sure to check for leaks with valgrind..</li>
 <li>The hash function you write should ultimately be your own, not one you search for online. There are many ways to implement a hash function beyond using the first character (or characters) of a word. Consider a hash function that uses a sum of ASCII values or the length of a word. A good hash function tends to reduce “collisions” and has a fairly even distribution across hash table “buckets”..</li>
-
-  
 </ul>
+
+<img src="assets/speller.png">
