@@ -26,7 +26,7 @@
 
 ---
 
-| Week | Title     | Output   |
+| Week | Tools     | Output   |
 | ---- | ---------- | ------- |
 | [0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)    |Scratch |[Problem Set 0](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%200%20-%20Scratch)     |
 | [1](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)    | C | [Lab 1 ](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%201%20-%20C)  |
@@ -41,7 +41,7 @@
 | [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Practice Problems 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory/Practice%20Problems%204)  |
 | [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Lab 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)  |
 | [4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)    | C | [Problem Set 4](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%204%20-%20Memory)  |
-| [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)    | C | [Practice Problems 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
+| [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)    | C | [Practice Problems 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures/Practice%20Problems%205)  |
 | [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)    | C | [Lab 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
 | [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  | C | [Problem Set 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
 
