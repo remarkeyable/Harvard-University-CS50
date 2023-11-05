@@ -1,4 +1,4 @@
-<h1>Problem Set 6</h1>
-<h2>Hello</h2>
+<h1>Practice Problems Set 6</h1>
+<h2>Bank</h2>
 <h2>Specification</h2>
-<p>Write, in a file called hello.py, a program that prompts a user for their name, and then prints hello, so-and-so, where so-and-so is their provided name, exactly as you did in Problem Set 1, except that your program this time should be written in Python.</p>
+<p>In a file called bank.py, implement a program that prompts the user for a greeting. If the greeting starts with “hello”, output $0. If the greeting starts with an “h” (but not “hello”), output $20. Otherwise, output $100. Ignore any leading whitespace in the user’s greeting, and treat the user’s greeting case-insensitively.</p>
