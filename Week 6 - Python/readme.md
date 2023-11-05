@@ -26,3 +26,7 @@ First, in main, read the team data from the CSV file into your program’s memor
   <li>Recall that if counts is a dictionary, then syntax like counts[team_name] = x will associate the key stored in team_name with the value stored in x.</li>
   <li>You can use the in keyword in Python to check if a dictionary has a particular key already. For example, if "Portugal" in counts: will check to see if "Portugal" already has an existing value in the counts dictionary.</li>
 </ul>
+
+<img src="assets/wordlcup.png">
+
+---
