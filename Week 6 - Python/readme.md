@@ -81,3 +81,32 @@ First, in main, read the team data from the CSV file into your program’s memor
   <li>If the resulting index number is 16 or higher (equivalent to or greater than a senior undergraduate reading level), your program should output "Grade 16+" instead of giving the exact index number. If the index number is less than 1, your program should output "Before Grade 1".</li>
 </ul>
 <img src="assets/readability.png">
+
+
+---
+
+<h2>DNA</h2>
+<h2>Specification</h2>
+
+<p>In a file called dna.py, implement a program that identifies to whom a sequence of DNA belongs.</p>
+
+<ul>
+<li>The program should require as its first command-line argument the name of a CSV file containing the STR counts for a list of individuals and should require as its second command-line argument the name of a text file containing the DNA sequence to identify.</li>
+<ul>
+  <li>If your program is executed with the incorrect number of command-line arguments, your program should print an error message of your choice (with print). If the correct number of arguments are provided, you may assume that the first argument is indeed the filename of a valid CSV file and that the second argument is the filename of a valid text file.</li>
+</ul>
+<li>Your program should open the CSV file and read its contents into memory.</li>
+<ul>
+  <li>You may assume that the first row of the CSV file will be the column names. The first column will be the word name and the remaining columns will be the STR sequences themselves.</li>
+</ul>
+<li>Your program should open the DNA sequence and read its contents into memory.</li>  
+<li>For each of the STRs (from the first line of the CSV file), your program should compute the longest run of consecutive repeats of the STR in the DNA sequence to identify. Notice that we’ve defined a helper function for you, longest_match, which will do just that!
+</li>  
+<li>If the STR counts match exactly with any of the individuals in the CSV file, your program should print out the name of the matching individual.</li>
+  <ul>
+    <li>You may assume that the STR counts will not match more than one individual.</li>
+    <li>If the STR counts do not match exactly with any of the individuals in the CSV file, your program should print No match.</li>
+  </ul>
+</ul>
+
+
