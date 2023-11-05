@@ -109,4 +109,6 @@ First, in main, read the team data from the CSV file into your program’s memor
   </ul>
 </ul>
 
+<img src="assets/dna.png">
+
 
