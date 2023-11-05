@@ -51,3 +51,16 @@ First, in main, read the team data from the CSV file into your program’s memor
 </ul>
 
 <img src="assets/mario.png">
+
+
+---
+
+<h2>Credit</h2>
+<h2>Specification</h2>
+<ul>
+  <li>In credit.py, write a program that prompts the user for a credit card number and then reports (via print) whether it is a valid American Express, MasterCard, or Visa card number, exactly as you did in Problem Set 1, except that your program this time should be written in Python.</li>
+  <li>So that we can automate some tests of your code, we ask that your program’s last line of output be AMEX\n or MASTERCARD\n or VISA\n or INVALID\n, nothing more, nothing less.</li>
+  <li>For simplicity, you may assume that the user’s input will be entirely numeric (i.e., devoid of hyphens, as might be printed on an actual card).</li>
+  <li>Best to use get_int or get_string from CS50’s library to get users’ input, depending on how you decide to implement this one.</li>
+</ul>
+<img src="assets/credit.png">
