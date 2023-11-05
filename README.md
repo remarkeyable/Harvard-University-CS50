@@ -44,7 +44,7 @@
 | [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)    | C | [Practice Problems 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures/Practice%20Problems%205)  |
 | [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)    | C | [Lab 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
 | [5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  | C | [Problem Set 5](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
-| [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)    | Python | [Practice Problems 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures/Practice%20Problems%205)  |
+| [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)    | Python | [Practice Problems 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python/Practice%20Problems%206)  |
 | [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)    | Python | [Lab 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
 | [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)  | Python | [Problem Set 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%205%20-%20Data%20Structures)  |
 
