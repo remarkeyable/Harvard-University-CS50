@@ -36,3 +36,18 @@ First, in main, read the team data from the CSV file into your program’s memor
 <h2>Specification</h2>
 <p>Write, in a file called hello.py, a program that prompts a user for their name, and then prints hello, so-and-so, where so-and-so is their provided name, exactly as you did in Problem Set 1, except that your program this time should be written in Python.</p>
 <img src="assets/hello.png">
+
+<h2>Mario</h2>
+<h2>Specification</h2>
+
+---
+
+<ul>
+  <li>Write, in a file called mario.py, a program that recreates these half-pyramids using hashes (#) for blocks, exactly as you did in Problem Set 1, except that your program this time should be written in Python.</li>
+  <li>To make things more interesting, first prompt the user with get_int for the half-pyramid’s height, a positive integer between 1 and 8, inclusive. (The height of the half-pyramids pictured above happens to be 4, the width of each half-pyramid 4, with a gap of size 2 separating them).</li>
+  <li>If the user fails to provide a positive integer no greater than 8, you should re-prompt for the same again.</li>
+  <li>Then, generate (with the help of print and one or more loops) the desired half-pyramids.</li>
+  <li>Take care to align the bottom-left corner of your pyramid with the left-hand edge of your terminal window, and ensure that there are two spaces between the two pyramids, and that there are no additional spaces after the last set of hashes on each row.</li>
+</ul>
+
+<img src="assets/mario.png">
