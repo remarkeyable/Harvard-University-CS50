@@ -46,7 +46,7 @@ In 5.sql, write a SQL query that returns the average energy of all the songs.
 <li>
 In 5.sql, write a SQL query that returns the average energy of all the songs.
 <ul>
-  <li>Your query should output a table with a single column for the name of each song.</li>
+  <li>Your query should output a table with a single column and a single row containing the average energy.</li>
 </ul>
 </li>
 
@@ -55,6 +55,7 @@ In 5.sql, write a SQL query that returns the average energy of all the songs.
 In 6.sql, write a SQL query that lists the names of songs that are by Post Malone.
 <ul>
   <li>Your query should output a table with a single column for the name of each song.</li>
+  <li>You should not make any assumptions about what Post Malone’s artist_id is.</li>
 </ul>
 </li>
 
@@ -62,7 +63,8 @@ In 6.sql, write a SQL query that lists the names of songs that are by Post Malon
 <li>
 In 7.sql, write a SQL query that returns the average energy of songs that are by Drake.
 <ul>
-  <li>Your query should output a table with a single column for the name of each song.</li>
+  <li>Your query should output a table with a single column and a single row containing the average energy.</li>
+  <li>You should not make any assumptions about what Drake’s artist_id is.</li>
 </ul>
 </li>
 
@@ -70,7 +72,8 @@ In 7.sql, write a SQL query that returns the average energy of songs that are by
 <li>
 In 8.sql, write a SQL query that lists the names of the songs that feature other artists.
 <ul>
-  <li>Your query should output a table with a single column for the name of each song.</li>
+  <li>Songs that feature other artists will include “feat.” in the name of the song.</li>
+   <li>Your query should output a table with a single column for the name of each song.</li>
 </ul>
 </li>
  
