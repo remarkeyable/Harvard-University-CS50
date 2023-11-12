@@ -47,6 +47,9 @@
 | [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)    | Python | [Practice Problems 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python/Practice%20Problems%206)  |
 | [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)    | Python | [Lab 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)  |
 | [6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)  | Python | [Problem Set 6](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%206%20-%20Python)  |
+| [7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)    | SQL | [Practice Problems 7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL/Practice%20Problems%207)  |
+| [7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)    | SQL | [Lab 7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  |
+| [7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  | SQL | [Problem Set 7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  |
 
 
 
