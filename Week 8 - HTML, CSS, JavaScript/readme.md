@@ -26,4 +26,4 @@
 </ul>
 </ul>
 
-<img src="assets/O.png">
+<img src="assets/0.png">
