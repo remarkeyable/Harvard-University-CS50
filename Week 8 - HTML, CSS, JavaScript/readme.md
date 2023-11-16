@@ -23,8 +23,7 @@
 <ul>
 <li>If the user types an incorrect answer and presses the confirmation button, the text field should turn red and text should appear beneath the question that says “Incorrect”.</li>
 <li>If the user types the correct answer and presses the confirmation button, the input field should turn green and text should appear beneath the question that says “Correct!”.</li>
-  
+</ul>
 </ul>
 
-  
-</ul>
+<img src="assets/O.png">
