@@ -56,7 +56,12 @@ to link your own CSS.
 <li>Have at least one stylesheet file of your own creation, styles.css, which uses at least five (5) different CSS selectors (e.g. tag (example), class (.example), or ID (#example)), and within which you use a total of at least five (5) different CSS properties, such as font-size, or margin; and</li>
 <li>Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!</li>
 <li>Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.</li>
-                                                                                                                                                                                                                                                                                                          
+<img src="assets/1.png">
+<em>Card when hovered</em>
+<img src="assets/2.png">
+<em>Profile icon when hovered</em>
+<img src="assets/3.png">
+                                                                                                                                                                                                                                                                                                      
                                                                                                                                                                                                                                                                                                           
 
 
