@@ -52,8 +52,8 @@
 | [7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  | SQL | [Problem Set 7](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  |
 | [8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)    | HTML, CSS, JavaScript | [Lab 8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)  |
 | [8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  | HTML, CSS, JavaScript | [Problem Set 8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)  |
-| [9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)    | HTML, CSS, JavaScript | [Lab 8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)  |
-| [9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  | HTML, CSS, JavaScript | [Problem Set 8](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)  |
+| [9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript)    | Flask | [Lab 9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%209%20-%20Flask)  |
+| [9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%207%20-%20SQL)  | Flask | [Problem Set 9](https://github.com/remarkeyable/Harvard-University-CS50/tree/main/Week%209%20-%20Flask)  |
 
 
 
