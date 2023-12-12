@@ -17,5 +17,9 @@
     <li>hen, in app.py, add logic in your POST request handling to INSERT a new row into the birthdays table based on the data supplied by the user.</li>
   </ul>
 
-  
 </ul>
+
+
+<img src="img/1.png">
+
+---
