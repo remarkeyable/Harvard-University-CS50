@@ -23,3 +23,8 @@
 <img src="img/1.png">
 
 ---
+
+<h1>Problem Set 9: C$50 Finance</h1>
+<p>Implement a website via which users can “buy” and “sell” stocks,</p>
+
+<img src="img/2.png">
