@@ -9,12 +9,29 @@
  <tr>
     <td align="left">
       <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/H/heroku-logo-90FDE34A7D-seeklogo.com.png" alt="Heroku" width="20" height="20"/>
+        <img src="images/5.png" alt="Heroku" width="80" height="80"/>
       </a>
-      <a href="https://gunicorn.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png" alt="gunicorn" width="20" height="20"/>
+          <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
+        <img src="images/4.png" alt="Heroku" width="80" height="80"/>
       </a>
-    </td>
+          </a>
+          <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
+        <img src="images/3.png" alt="Heroku" width="80" height="80"/>
+      </a>
+    </a>
+     <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
+        <img src="images/1.png" alt="Heroku" width="80" height="80"/>
+      </a>
+       <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
+        <img src="images/2.png" alt="Heroku" width="80" height="80"/>
+      </a>
+
+
+
+
+      
+
+
   </tr>
 
 
