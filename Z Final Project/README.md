@@ -46,17 +46,21 @@ pip install gunicorn==21.2.0
 pip install pdf2docx==0.5.6
 ```
 
-      
-      
-
-      
-
-
-
-
-      
-
-
   </tr>
+
+  ---
+
+
+  <h3>Homepage</h2>
+  <img src="images/a.png">
+   <h3>Image Converter Page</h2>
+     <img src="images/b.png">
+        <h3>Pdf Converter Page</h2>
+            <img src="images/c.png">
+                    <h4>Footer</h4>
+                          <img src="images/d.png">
+                                <img src="images/e.png">
+                                      <img src="images/f.png">
+            
 
 
